@@ -1,2 +1,2 @@
 # NatCommun2020
-Scripts for Kawamoto et al.
+The scripts for Kawamoto et al.
